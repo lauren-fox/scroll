@@ -117,6 +117,7 @@ a:hover{
 }
 
 .rectangle1{
+    background-color: #FC474C;
     width: 100vw;
     height: 10vw;
     position: fixed;
